@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Calder10
 - 👀 I’m interested in Artificial Inellience 
-- 🌱 I’m currently a Ph.D Student in Mathematics and Computational Sciences at University of Paleermo
+- 🌱 I’m currently a Ph.D Student in Mathematics and Computational Sciences at University of Palermo
 - 📫 calderaro10@gmail.cim
 
 <!---
